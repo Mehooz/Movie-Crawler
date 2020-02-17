@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="oop_master" targetName="oop_master" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="909304e3-ab36-4c9a-9a71-e46330bdcf38" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1014">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseData.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaseData/BaseData.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+              <folding>
+                <element signature="e#39#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMDBScore.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BaseData/IMDBScore.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Date.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaseData/Date.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Strategies.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategies.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Strategies.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategies.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/Catcher/BaseCatcher.h" />
+        <option value="$PROJECT_DIR$/Catcher/IMDB_by_people.cpp" />
+        <option value="$PROJECT_DIR$/Catcher/IMDB_by_toplist.cpp" />
+        <option value="$PROJECT_DIR$/Catcher/RottenTomatoes_by_people.cpp" />
+        <option value="$PROJECT_DIR$/Catcher/RottenTomatoes_by_toplist.cpp" />
+        <option value="$PROJECT_DIR$/Strategies.cpp" />
+        <option value="$PROJECT_DIR$/OBJ,RANKING/MovieObject.h" />
+        <option value="$PROJECT_DIR$/OBJ,RANKING/PersonObject.h" />
+        <option value="$PROJECT_DIR$/OBJ,RANKING/Ranking.h" />
+        <option value="$PROJECT_DIR$/OBJ,RANKING/BaseObject.cpp" />
+        <option value="$PROJECT_DIR$/OBJ,RANKING/BaseObject.h" />
+        <option value="$PROJECT_DIR$/OBJ,RANKING/Ranking.cpp" />
+        <option value="$PROJECT_DIR$/Date.h" />
+        <option value="$PROJECT_DIR$/Date.cpp" />
+        <option value="$PROJECT_DIR$/Format/DBSio.h" />
+        <option value="$PROJECT_DIR$/Episodes.h" />
+        <option value="$PROJECT_DIR$/DateFormat.cpp" />
+        <option value="$PROJECT_DIR$/DouBanScore.h" />
+        <option value="$PROJECT_DIR$/IMDB_by_toplist.cpp" />
+        <option value="$PROJECT_DIR$/RottenTomatoes_by_toplist.cpp" />
+        <option value="$PROJECT_DIR$/IMDBScore.h" />
+        <option value="$PROJECT_DIR$/Format/IMDBSio.h" />
+        <option value="$PROJECT_DIR$/Language.cpp" />
+        <option value="$PROJECT_DIR$/Name.h" />
+        <option value="$PROJECT_DIR$/Rated.h" />
+        <option value="$PROJECT_DIR$/RottenTomatoesScore.cpp" />
+        <option value="$PROJECT_DIR$/Similar.cpp" />
+        <option value="$PROJECT_DIR$/BaseCatcher.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Strategies.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1122" />
+    <option name="y" value="138" />
+    <option name="width" value="834" />
+    <option name="height" value="984" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="oop_master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oop-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oop_master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oop-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BaseData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oop_master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oop-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ObjRanking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oop_master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oop-master" type="462c0819:PsiDirectoryNode" />
+              <item name="qtfiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.oop_master">
+    <configuration name="oop_master" type="CMakeRunConfiguration" factoryName="Application" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop_master" TARGET_NAME="oop_master" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop_master" RUN_TARGET_NAME="oop_master" />
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="oop-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Application.oop_master" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.oop_master" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="909304e3-ab36-4c9a-9a71-e46330bdcf38" name="Default" comment="" />
+      <created>1530181068560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530181068560</updated>
+      <workItem from="1530181070315" duration="1448000" />
+      <workItem from="1530183276677" duration="9961000" />
+      <workItem from="1530234869716" duration="15000" />
+      <workItem from="1530234922316" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11524000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25099286" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.3291592" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.3291592" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Douban_by_toplist.py" />
+    <entry file="file://$PROJECT_DIR$/Douban_by_toplist.txt" />
+    <entry file="file://$PROJECT_DIR$/Douban_by_TV.cpp" />
+    <entry file="file://$PROJECT_DIR$/Douban_by_TV.txt" />
+    <entry file="file://$PROJECT_DIR$/Douban_by_TV.py" />
+    <entry file="file://$PROJECT_DIR$/IMDB_by_movies.cpp" />
+    <entry file="file://$PROJECT_DIR$/IMDB_by_movies.h" />
+    <entry file="file://$PROJECT_DIR$/IMDB_by_movies.py" />
+    <entry file="file://$PROJECT_DIR$/OBJ,RANKING/BaseStrategy.h" />
+    <entry file="file://$PROJECT_DIR$/OBJ,RANKING/MovieObject.h" />
+    <entry file="file://$PROJECT_DIR$/OBJ,RANKING/PersonObject.h" />
+    <entry file="file://$PROJECT_DIR$/OBJ,RANKING/Ranking.h" />
+    <entry file="file://$PROJECT_DIR$/OBJ,RANKING/Ranking.cpp" />
+    <entry file="file://$PROJECT_DIR$/Date.h" />
+    <entry file="file://$PROJECT_DIR$/Date.cpp" />
+    <entry file="file://$PROJECT_DIR$/Episodes.h" />
+    <entry file="file://$PROJECT_DIR$/DateFormat.cpp" />
+    <entry file="file://$PROJECT_DIR$/Director.h" />
+    <entry file="file://$PROJECT_DIR$/Format/DBSio.h" />
+    <entry file="file://$PROJECT_DIR$/DBSio.cpp" />
+    <entry file="file://$PROJECT_DIR$/DouBanScore.h" />
+    <entry file="file://$PROJECT_DIR$/IMDB_by_toplist.cpp" />
+    <entry file="file://$PROJECT_DIR$/IMDBScore.h" />
+    <entry file="file://$PROJECT_DIR$/Format/IMDBSio.h" />
+    <entry file="file://$PROJECT_DIR$/Language.cpp" />
+    <entry file="file://$PROJECT_DIR$/Name.h" />
+    <entry file="file://$PROJECT_DIR$/Rated.h" />
+    <entry file="file://$PROJECT_DIR$/RottenTomatoesScore.cpp" />
+    <entry file="file://$PROJECT_DIR$/Similar.cpp" />
+    <entry file="file://$PROJECT_DIR$/OBJ,RANKING/BaseObject.cpp" />
+    <entry file="file://$PROJECT_DIR$/OBJ,RANKING/BaseObject.h" />
+    <entry file="file://$PROJECT_DIR$/Catcher/RottenTomatoes_by_people.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban_by_toplist.cpp" />
+    <entry file="file://$PROJECT_DIR$/Douban_by_toplist.h" />
+    <entry file="file://$PROJECT_DIR$/RottenTomatoes_by_toplist.cpp" />
+    <entry file="file://$PROJECT_DIR$/Catcher/BaseCatcher.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catcher/BaseCatcher.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#55#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseCatcher.cpp" />
+    <entry file="file://$PROJECT_DIR$/Douban_by_movies.py" />
+    <entry file="file://$PROJECT_DIR$/BaseData.h" />
+    <entry file="file://$PROJECT_DIR$/BaseCatcher.h" />
+    <entry file="file://$PROJECT_DIR$/Douban_by_movies.cpp" />
+    <entry file="file://$PROJECT_DIR$/RottenTomatoes_by_movies.cpp" />
+    <entry file="file://$PROJECT_DIR$/Strategies.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban_by_people.cpp" />
+    <entry file="file://$PROJECT_DIR$/Douban_by_people.py" />
+    <entry file="file://$PROJECT_DIR$/Strategies.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1014">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseData/Date.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseData/BaseData.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding>
+            <element signature="e#39#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseData/IMDBScore.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

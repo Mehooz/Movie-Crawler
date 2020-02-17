@@ -1,0 +1,92 @@
+cmake_minimum_required(VERSION 3.10)
+project(oop_master)
+
+set(CMAKE_CXX_STANDARD 11)
+
+include_directories(.)
+include_directories(Catcher)
+include_directories(Format)
+include_directories(OBJ,RANKING)
+include_directories(C:/Python27/include)
+link_directories(C:/Python27/libs/python27.lib)
+
+add_executable(oop_master
+        Format/DateFormat.h
+        Format/DBSio.h
+        Format/IMDBSio.h
+        Format/IOFormat.h
+        Format/RTSio.h
+        OBJ,RANKING/BaseObject.cpp
+        OBJ,RANKING/BaseObject.h
+        OBJ,RANKING/MovieObject.h
+        OBJ,RANKING/PersonObject.h
+        OBJ,RANKING/Ranking.cpp
+        OBJ,RANKING/Ranking.h
+        OBJ,RANKING/TVObject.h
+        BaseCatcher.cpp
+        BaseCatcher.h
+        BaseData.h
+        Date.cpp
+        Date.h
+        DateFormat.cpp
+        DBSio.cpp
+        Director.cpp
+        Director.h
+        Douban_by_movies.cpp
+        Douban_by_movies.h
+        Douban_by_people.cpp
+        Douban_by_people.h
+        Douban_by_toplist.cpp
+        Douban_by_toplist.h
+        Douban_by_TV.cpp
+        Douban_by_TV.h
+        DouBanScore.cpp
+        DouBanScore.h
+        Episodes.cpp
+        Episodes.h
+        Image.h
+        IMDB_by_movies.cpp
+        IMDB_by_movies.h
+        IMDB_by_people.cpp
+        IMDB_by_people.h
+        IMDB_by_toplist.cpp
+        IMDB_by_toplist.h
+        IMDB_by_TV.cpp
+        IMDB_by_TV.h
+        IMDBScore.cpp
+        IMDBScore.h
+        IMDBSio.cpp
+        IOFormat.cpp
+        Language.cpp
+        Language.h
+        LeadingActor.cpp
+        LeadingActor.h
+        Name.cpp
+        Name.h
+        People.h
+        Place.cpp
+        Place.h
+        Rated.cpp
+        Rated.h
+        RottenTomatoes_by_movies.cpp
+        RottenTomatoes_by_movies.h
+        RottenTomatoes_by_people.cpp
+        RottenTomatoes_by_people.h
+        RottenTomatoes_by_toplist.cpp
+        RottenTomatoes_by_toplist.h
+        RottenTomatoes_by_TV.cpp
+        RottenTomatoes_by_TV.h
+        RottenTomatoesScore.cpp
+        RottenTomatoesScore.h
+        RTSio.cpp
+        Runtime.cpp
+        Runtime.h
+        Score.h
+        Similar.cpp
+        Similar.h
+        Strategies.cpp
+        Strategies.h
+        Type.cpp
+        Type.h
+        Writer.cpp
+        Writer.h main.cpp)

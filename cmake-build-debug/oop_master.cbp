@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="oop_master"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/oop/oop-master/oop-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/oop/oop-master/oop-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oop_master">
+				<Option output="E:/oop/oop-master/oop-master/cmake-build-debug/oop_master.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/oop/oop-master/oop-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/oop/oop-master/oop-master/."/>
+					<Add directory="E:/oop/oop-master/oop-master/Catcher"/>
+					<Add directory="E:/oop/oop-master/oop-master/Format"/>
+					<Add directory="E:/oop/oop-master/oop-master/OBJ,RANKING"/>
+					<Add directory="C:/Python27/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 oop_master"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oop_master/fast">
+				<Option output="E:/oop/oop-master/oop-master/cmake-build-debug/oop_master.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/oop/oop-master/oop-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/oop/oop-master/oop-master/."/>
+					<Add directory="E:/oop/oop-master/oop-master/Catcher"/>
+					<Add directory="E:/oop/oop-master/oop-master/Format"/>
+					<Add directory="E:/oop/oop-master/oop-master/OBJ,RANKING"/>
+					<Add directory="C:/Python27/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 oop_master/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/oop/oop-master/oop-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/oop/oop-master/oop-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/oop/oop-master/oop-master/BaseCatcher.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/BaseCatcher.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/BaseData.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/DBSio.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Date.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Date.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/DateFormat.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Director.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Director.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/DouBanScore.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/DouBanScore.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Douban_by_TV.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Douban_by_TV.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Douban_by_movies.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Douban_by_movies.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Douban_by_people.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Douban_by_people.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Douban_by_toplist.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Douban_by_toplist.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Episodes.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Episodes.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Format/DBSio.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Format/DateFormat.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Format/IMDBSio.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Format/IOFormat.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Format/RTSio.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/IMDBScore.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/IMDBScore.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/IMDBSio.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/IMDB_by_TV.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/IMDB_by_TV.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/IMDB_by_movies.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/IMDB_by_movies.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/IMDB_by_people.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/IMDB_by_people.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/IMDB_by_toplist.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/IMDB_by_toplist.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/IOFormat.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Image.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Language.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Language.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/LeadingActor.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/LeadingActor.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Name.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Name.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/OBJ,RANKING/BaseObject.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/OBJ,RANKING/BaseObject.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/OBJ,RANKING/MovieObject.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/OBJ,RANKING/PersonObject.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/OBJ,RANKING/Ranking.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/OBJ,RANKING/Ranking.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/OBJ,RANKING/TVObject.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/People.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Place.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Place.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/RTSio.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Rated.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Rated.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/RottenTomatoesScore.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/RottenTomatoesScore.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/RottenTomatoes_by_TV.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/RottenTomatoes_by_TV.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/RottenTomatoes_by_movies.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/RottenTomatoes_by_movies.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/RottenTomatoes_by_people.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/RottenTomatoes_by_people.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/RottenTomatoes_by_toplist.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/RottenTomatoes_by_toplist.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Runtime.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Runtime.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Score.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Similar.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Similar.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Strategies.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Strategies.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Type.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Type.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Writer.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/Writer.h">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/main.cpp">
+			<Option target="oop_master"/>
+		</Unit>
+		<Unit filename="E:/oop/oop-master/oop-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
