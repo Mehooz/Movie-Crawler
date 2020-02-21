@@ -1,5 +1,4 @@
 oop project
 
-Time: 2018 
-
 Project: Movie Information Collection system
+Collaborator: Runxin Zhong, Jiarui Tan
